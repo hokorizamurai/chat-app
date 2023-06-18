@@ -59,11 +59,11 @@
   overflow: scroll;
 }
 
-.chat_message {
+.form {
   background-color: #DDDDDD;
   height: 90px;
   padding: 20px 40px;
-  display:flex;
+  display: flex;
 }
 
 .room {
@@ -71,7 +71,7 @@
 }
 
 .room_name a {
-  text-decoration:none;
+  text-decoration: none;
   color: white;
 }
 
@@ -109,7 +109,7 @@
 .message-date {
   color: #999;
   font-size: 12px;
-  padding-left:10px;
+  padding-left: 10px;
 }
 
 .lower-message {
